@@ -1,0 +1,10 @@
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\avon\avon\bin\Debug\avon.exe.config
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\avon\avon\bin\Debug\avon.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\avon\avon\bin\Debug\avon.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\avon\avon\obj\Debug\avon.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\avon\avon\obj\Debug\avon.Form1.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\avon\avon\obj\Debug\avon.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\avon\avon\obj\Debug\avon.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\avon\avon\obj\Debug\avon.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\avon\avon\obj\Debug\avon.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\avon\avon\obj\Debug\avon.pdb
